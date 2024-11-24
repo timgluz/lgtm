@@ -7,7 +7,7 @@ Let's generate the meaningful code review comments automatically.
 It is a chrome extension that helps to improve the quality of code review comments
 and was initially developed for the [Google Chrome Built-in AI Challenge](https://devpost.com/software/lgtm-fmnqdz#updates).
 
-![LGTM](docs/lgtm.png)
+![LGTM](docs/lgtm-popup.png)
 
 ## Usage
 
