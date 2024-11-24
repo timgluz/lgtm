@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "LGTM",
+  "description": "LGTM improves your review comments",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "permissions": ["aiLanguageModelOriginTrial"],
+  "trial_tokens": ["ApaVJ4t6dg9UGElSsH+qwNnudfL4m6LOIZMtvxjuv5aXA1qQkDd+Tgd9N3rVLSMkRu0ATCZNhlj0cLZWa2mr0g0AAAB4eyJvcmlnaW4iOiJjaHJvbWUtZXh0ZW5zaW9uOi8vbG9kZGpoZ2JlbWhqZGdlZWJvbWxtY2xuZmtsZmdkbm0iLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElGb3JFeHRlbnNpb24iLCJleHBpcnkiOjE3NjA0ODYzOTl9"]
+}
